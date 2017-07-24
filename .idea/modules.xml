@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/thread-ch1.iml" filepath="$PROJECT_DIR$/.idea/modules/thread-ch1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/thread-ch1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/thread-ch1_main.iml" group="thread-ch1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/thread-ch1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/thread-ch1_test.iml" group="thread-ch1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/thread-demo.iml" filepath="$PROJECT_DIR$/.idea/modules/thread-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/thread-demo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/thread-demo_main.iml" group="thread-demo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/thread-demo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/thread-demo_test.iml" group="thread-demo" />
+    </modules>
+  </component>
+</project>
