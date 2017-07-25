@@ -18,6 +18,32 @@
       <GradleProjectSettings>
         <option name="createEmptyContentRootDirectories" value="true" />
         <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/basis-demo" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../JavaCommonUtils/gradle-4.0-bin/gradle-4.0" />
+        <option name="gradleJvm" value="Jdk1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/basis-demo" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/crawer-ch3" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../JavaCommonUtils/gradle-4.0-bin/gradle-4.0" />
+        <option name="gradleJvm" value="Jdk1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/crawer-ch3" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/thread-ch1" />
         <option name="gradleHome" value="$PROJECT_DIR$/../../../JavaCommonUtils/gradle-4.0-bin/gradle-4.0" />
         <option name="gradleJvm" value="Jdk1.8" />

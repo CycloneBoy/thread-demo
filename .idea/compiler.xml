@@ -2,6 +2,10 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="basis-demo_main" target="1.8" />
+      <module name="basis-demo_test" target="1.8" />
+      <module name="crawer-ch3_main" target="1.8" />
+      <module name="crawer-ch3_test" target="1.8" />
       <module name="thread-ch1_main" target="1.8" />
       <module name="thread-ch1_test" target="1.8" />
       <module name="thread-demo_main" target="1.8" />
